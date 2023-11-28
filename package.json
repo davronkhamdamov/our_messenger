@@ -1,5 +1,12 @@
 {
+  "name": "our_messenger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davronkhamdamov/our_messenger.git",
+  "author": "davronkhandamov <xamdamovdavron6@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
   }
 }
